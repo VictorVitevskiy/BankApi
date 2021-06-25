@@ -1,0 +1,12 @@
+GET localhost:8080/api/bank/account/40817810085844377764/balance/get
+
+###
+GET localhost:8080/api/bank/account/40817810085844377764/balance/add/15837
+
+###
+GET localhost:8080/api/bank/user/11/cards
+
+###
+GET localhost:8080/api/bank/card/new/40817810085844377764
+
+
